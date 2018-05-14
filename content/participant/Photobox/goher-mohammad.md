@@ -16,6 +16,7 @@ regonline       :
 pre-summit      :
 status          : add details
 sessions:
+   - Agile Practices for Security Teams
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
