@@ -1,7 +1,7 @@
 ---
 title           : Goher Mohammad
 type            : participant
-job_title       :
+job_title       : Acting Head of Risk and Compliance
 company         : Photobox GS
 travel_from     :
 image           :
